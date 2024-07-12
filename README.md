@@ -1,5 +1,5 @@
-# hack-tools
-hacking Tools list
+_Just some notes about hacking tools, resources i would need some time.._
+
 
 ### Dark Forums
 - breachforums . st
