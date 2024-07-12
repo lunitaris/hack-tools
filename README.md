@@ -5,6 +5,5 @@ hacking Tools list
 - breachforums . st
 - sinister . ly
 
-
-**Windows Payload Obfuscation**
+### Obfuscation Tools (Win)
 - https://github.com/idfp/masquerade
